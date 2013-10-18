@@ -4,7 +4,8 @@
  * 
  *    USING THE SHIFT REGISTER: understanding powers of two and logic
  *
- *    The data sheet for the MM74HC595, the shift register supplied with the Arduino UNO
+ *    The data sheet for the MM74HC595, the shift register supplied with the
+ *    Sparkfun Inventors kit + UNO
  *    http://datasheet.octopart.com/MM74HC595N-Fairchild-datasheet-12735.pdf
  *
  */
